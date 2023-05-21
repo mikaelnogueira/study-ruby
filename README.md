@@ -1,23 +1,23 @@
-<h1>Aprendendo Desenvolvimento em Ruby 🚀💎</h1>
-<p>Este é um projeto para mostrar o meu aprendizado em desenvolvimento em Ruby. Aqui, você encontrará diversos projetos que demonstram o meu progresso e habilidades na linguagem Ruby.</p>
-<p>Como executar os projetos:</p>
+<h1>Learning Ruby Development 🚀💎</h1>
+<p>This is a project to showcase my learning in Ruby development. Here, you will find various projects that demonstrate my progress and skills in the Ruby language.</p>
+<p>How to run the projects:</p>
 <ol>
-  <li>Clone o repositório para a sua máquina</li>
-  <li>Acesse o diretório do projeto desejado via terminal</li>
-  <li>Execute o projeto com o comando apropriado</li>
+  <li>Clone the repository to your machine</li>
+  <li>Access the desired project directory via the terminal</li>
+  <li>Execute the project with the appropriate command</li>
 </ol>
-<p>Tecnologias utilizadas:</p>
+<p>Technologies used:</p>
 <ul>
   <li>Ruby 💎</li>
 </ul>
-<p>Autor:</p>
-<p>Este projeto foi desenvolvido por Mikael Nogueira, como parte do meu aprendizado em desenvolvimento em Ruby.</p>
-<p>Redes Sociais:</p>
+<p>Author:</p>
+<p>This project was developed by Mikael Nogueira as part of my learning in Ruby development.</p>
+<p>Social Media:</p>
 <ul>
   <li>Instagram: <a href="https://www.instagram.com/nog.mikael/">@nog.mikael 📷</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/mikael-nogueira-413b45274/">@mikael-nogueira 🔗</a></li>
   <li>GitHub: <a href="https://github.com/mikaelnogueira">@mikaelnogueira 🐙</a></li>
 </ul>
-<p>Licença:</p>
-<p>Este projeto está licenciado sob a <a href="https://opensource.org/licenses/MIT/">Licença MIT</a>.</p>
-<p>Feito com ❤️ por Mikael Nogueira.</p>
+<p>License:</p>
+<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT/">MIT License</a>.</p>
+<p>Made with ❤️ by Mikael Nogueira.</p>
