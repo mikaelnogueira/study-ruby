@@ -28,5 +28,5 @@ puts  a[2]
 #substituições de palavras
   #após determinar uma variavés, será possível utilizar um metódo que substitua uma por outra
 
-variavel.gsub ("palavra", "sustituição")
+v.gsub ("palavra", "sustituição")
 
